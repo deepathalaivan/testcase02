@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-collegeboard.org-landing-page" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@collegeboard" value="true">
+            </property>
+            <property name="@signin" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase02/features/collegeboard.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;collegeboard&quot; website" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-collegeboard.org-landing-page" time="1.7131796">
+        </testcase>
+        <testcase name="When I click on &quot;SignInlink&quot; link" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-collegeboard.org-landing-page" time="4.7905663">
+        </testcase>
+        <testcase name="Then I should see &quot;SignInHeader&quot; header" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-collegeboard.org-landing-page" time="4.0340844">
+        </testcase>
+    </testsuite>
+    <testsuite name="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-why-take-ap-course-link" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@collegeboard" value="true">
+            </property>
+            <property name="@profile" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase02/features/collegeboard.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;collegeboard&quot; website" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-why-take-ap-course-link" time="1.4207257">
+        </testcase>
+        <testcase name="When I click on &quot;CSSProfilelink&quot; link" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-why-take-ap-course-link" time="4.578817">
+        </testcase>
+        <testcase name="Then I should see &quot;CSSProfile&quot; header" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-why-take-ap-course-link" time="4.0317064">
+        </testcase>
+    </testsuite>
+    <testsuite name="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-sat-link" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@collegeboard" value="true">
+            </property>
+            <property name="@sat" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase02/features/collegeboard.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;collegeboard&quot; website" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-sat-link" time="1.8102691">
+        </testcase>
+        <testcase name="When I click on &quot;SATlink&quot; link" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-sat-link" time="5.2351499">
+        </testcase>
+        <testcase name="Then I should see &quot;SATSuiteofAssessments&quot; header" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-sat-link" time="4.0244241">
+        </testcase>
+    </testsuite>
+    <testsuite name="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-ap-link" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@collegeboard" value="true">
+            </property>
+            <property name="@bigfuture" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase02/features/collegeboard.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;collegeboard&quot; website" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-ap-link" time="1.7256855">
+        </testcase>
+        <testcase name="When I click on &quot;BigFutureLink&quot; link" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-ap-link" time="6.5491688">
+        </testcase>
+        <testcase name="Then I should see &quot;BigFuture&quot; header" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-ap-link" time="4.0268578">
+        </testcase>
+    </testsuite>
+    <testsuite name="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-spring-board" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="@collegeboard" value="true">
+            </property>
+            <property name="@spring" value="true">
+            </property>
+            <property name="URI" value="C:/Users/deepa/workspace/testcase02/features/collegeboard.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;collegeboard&quot; website" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-spring-board" time="1.4643365">
+        </testcase>
+        <testcase name="When I click on &quot;SpringBoardlink&quot; link" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-spring-board" time="4.5888582">
+        </testcase>
+        <testcase name="Then I should see &quot;SpringBoard&quot; header" classname="as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-spring-board" time="4.0341564">
+        </testcase>
+    </testsuite>
+</testsuites>

@@ -1,0 +1,362 @@
+[
+  {
+    "elements": [
+      {
+        "id": "as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-collegeboard.org-landing-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Customer is displayed with collegeBoard.org landing page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"collegeboard\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1713179600
+            },
+            "line": 4,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"SignInlink\" link",
+            "result": {
+              "status": "passed",
+              "duration": 4790566300
+            },
+            "line": 5,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"SignInHeader\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4034084400
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 240541100
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@collegeboard",
+            "line": 2
+          },
+          {
+            "name": "@signin",
+            "line": 2
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "id": "as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-why-take-ap-course-link",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "Customer is displayed with Why Take AP Course link",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"collegeboard\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1420725700
+            },
+            "line": 10,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"CSSProfilelink\" link",
+            "result": {
+              "status": "passed",
+              "duration": 4578817000
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"CSSProfile\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4031706400
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 246106900
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@collegeboard",
+            "line": 8
+          },
+          {
+            "name": "@profile",
+            "line": 8
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "id": "as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-sat-link",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Customer is displayed with SAT link",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"collegeboard\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1810269100
+            },
+            "line": 16,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"SATlink\" link",
+            "result": {
+              "status": "passed",
+              "duration": 5235149900
+            },
+            "line": 17,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"SATSuiteofAssessments\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4024424100
+            },
+            "line": 18,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 224342500
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@collegeboard",
+            "line": 14
+          },
+          {
+            "name": "@sat",
+            "line": 14
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "id": "as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-ap-link",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "Customer is displayed with AP link",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"collegeboard\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1725685500
+            },
+            "line": 22,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"BigFutureLink\" link",
+            "result": {
+              "status": "passed",
+              "duration": 6549168800
+            },
+            "line": 23,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"BigFuture\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4026857800
+            },
+            "line": 24,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 199857200
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@collegeboard",
+            "line": 20
+          },
+          {
+            "name": "@bigfuture",
+            "line": 20
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "id": "as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen;customer-is-displayed-with-spring-board",
+        "keyword": "Scenario",
+        "line": 27,
+        "name": "Customer is displayed with Spring board",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"collegeboard\" website",
+            "result": {
+              "status": "passed",
+              "duration": 1464336500
+            },
+            "line": 28,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on \"SpringBoardlink\" link",
+            "result": {
+              "status": "passed",
+              "duration": 4588858200
+            },
+            "line": 29,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"SpringBoard\" header",
+            "result": {
+              "status": "passed",
+              "duration": 4034156400
+            },
+            "line": 30,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\step-definitions\\collegeboard-steps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 224740300
+            },
+            "hidden": true,
+            "match": {
+              "location": "C:\\Users\\deepa\\workspace\\testcase02\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@collegeboard",
+            "line": 26
+          },
+          {
+            "name": "@spring",
+            "line": 26
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "as-a-collegeboard-customer,i-want-to-be-able-to-navigate-to-college-board-login-screen",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "As a CollegeBoard customer,I want to be able to navigate to college board login screen",
+    "tags": [],
+    "uri": "C:/Users/deepa/workspace/testcase02/features/collegeboard.feature"
+  }
+]
